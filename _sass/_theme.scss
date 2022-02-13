@@ -57,6 +57,9 @@ body {
     @include justify-content(center);
   }
 }
+.feature-homepage{
+background-position: 0 35%;
+}
 
 .logo {
   display: inline-block;
