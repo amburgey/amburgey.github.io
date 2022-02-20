@@ -72,7 +72,7 @@ const Nav: FC<Props> = ({ path }) => {
                 Publications
               </a>
             </Link>
-            {/* <Link href="/cv">
+            <Link href="/cv">
               <a
                 className={clsx(
                   'navbar-item',
@@ -81,7 +81,7 @@ const Nav: FC<Props> = ({ path }) => {
               >
                 CV
               </a>
-            </Link> */}
+            </Link>
             {/* <Link href="/jedi">
               <a
                 className={clsx(
