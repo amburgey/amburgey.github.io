@@ -19,6 +19,8 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <Nav path={r.route} />
       <Component {...pageProps} />
+
+      <div className="mb-6" />
     </>
   )
 }
