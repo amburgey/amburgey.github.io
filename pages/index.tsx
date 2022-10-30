@@ -29,8 +29,17 @@ const Home: NextPage = () => {
 
         <div className="mt-6">
           <p className="content">
-            I am currently a postdoctoral researcher with Dr. Sarah Converse in
-            the the{' '}
+            I am currently a research scientist with 
+            the{''}
+            <a
+              href="https://wdfw.wa.gov/"
+              target="_blank"
+              rel="nonreferrer"
+            >
+            Washington Department of Fish and Wildlife's
+            </a>
+            Science Division, where I work on a variety of species and ecosystems within the state of Washington. Before that, I was a postdoctoral researcher with Dr. Sarah Converse in
+            the{' '}
             <a
               href="http://depts.washington.edu/qcons/"
               target="_blank"
