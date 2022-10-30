@@ -29,7 +29,8 @@ const Home: NextPage = () => {
 
         <div className="mt-6">
           <p className="content">
-            I am currently a quantitative ecologist with the{' '}
+            I am currently a quantitative ecologist with 
+            the{' '}
             <a
               href="https://wdfw.wa.gov/"
               target="_blank"
