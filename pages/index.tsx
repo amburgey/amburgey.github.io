@@ -35,7 +35,7 @@ const Home: NextPage = () => {
               target="_blank"
               rel="nonreferrer"
             >
-              Washington Department of Fish and Wildlife's
+              Washington Department of Fish and Wildlife&apos;s
             </a>
             Wildlife Science Division, where I work on a variety of species and ecosystems within the state of Washington. Before that, I was a postdoctoral researcher with Dr. Sarah Converse in
             the{' '}
