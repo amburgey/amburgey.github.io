@@ -34,7 +34,7 @@ const Home: NextPage = () => {
             <a
               href="https://wdfw.wa.gov/"
               target="_blank"
-              rel="nonreferrer"
+              rel="noreferrer"
             >
               Washington Department of Fish and Wildlife&apos;s
             </a>
